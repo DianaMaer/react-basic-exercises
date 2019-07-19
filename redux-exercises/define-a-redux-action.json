@@ -1,0 +1,1 @@
+{"index.jsx":"// Define an action here:\n\nconst action = { type: 'LOGIN' }"}
